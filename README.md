@@ -4,7 +4,7 @@
 <h2 align="left">QA-Tester/Automation</h2>
 
 <!-- - 🌱 I’m currently learning **Robot-Framework** -->
-<h4 align="left" >A passionate about Test-Automation</h4>
+<h4 align="left" >Passionate about Test-Automation</h4>
 <!-- <img align="center" alt="Cooding" width="600" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif"> -->
 
 <p align="left">
