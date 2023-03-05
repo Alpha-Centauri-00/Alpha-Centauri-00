@@ -1,16 +1,13 @@
 
 ![MasterHead!](https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png)
 
-<h2 align="left">QA-Tester/Automation</h2>
 
-<!-- - 🌱 I’m currently learning **Robot-Framework** -->
-<h4 align="left" >Passionate about Test-Automation</h4>
 <!-- <img align="center" alt="Cooding" width="600" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif"> -->
 
 <p align="left">
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
+
 <br>
 <p align="left"> <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg" width="40" height="40"/> </a><a  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   alt="python" width="40" height="40"/>
  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/> </a>
